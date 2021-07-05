@@ -16,6 +16,6 @@ Szenario 1 : Skymine
 <ins>**Leader**</ins>  
 **Hellblaster Sergeant** (57)  
 
-|M|WS|BS|S|T|W|A|Ld|Sv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|3+|3+|4|4|4|3|8|3+|
+|M|WS|BS|
+|:---|:---|:---|
+|6"|3+|3+|
