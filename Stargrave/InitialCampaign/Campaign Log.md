@@ -31,12 +31,16 @@
 **Postgame Sequence**
 
 Laber:
+
 -100xp -> +1 Level Zeratul -> 
+
 Sell Weapon Cage -> +150 credits
+
 Change gear on Serendis:
+
 **-** Combat Armour 
- - Rapid Fire
-+ Light Armour
-+ Carbine
-+ Deck
-+ 
+**-** Rapid Fire
+**+** Heavy Armour
+**+** Flamethrower
+**+** Deck
+**+** Picks
