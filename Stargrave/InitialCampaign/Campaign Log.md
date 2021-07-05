@@ -1,6 +1,6 @@
 <h2>Szenario 1 : Skymine</h2>  
 
-**XP**   
+<h3>XP</h3>  
 
 |XP Reason|Cz|Laber|
 |:---|:---|:---|
@@ -13,7 +13,7 @@
 |scenario objective|0|20|
 |Total|210|190|
 
-**Casualties**   
+<h3>Casualties</h3>    
 
 |Cz|Laber|
 |:---|:---|
@@ -30,11 +30,15 @@
 
 **Postgame Sequence**
 
-Laber:
+Laber: (10 credits left)
 
 -100xp -> +1 Level Zeratul -> 
 
 Sell Weapon Cage -> +150 credits
+
+Buy new Chiseler => 20 credits
+
+**New Treasury: 140 credits**
 
 Change gear on Selendis:
 
