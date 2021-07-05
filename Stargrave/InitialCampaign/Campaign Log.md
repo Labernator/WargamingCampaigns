@@ -21,14 +21,14 @@
 |Trooper wounded |Runner wounded|
 | |Zeratul wounded|
 
-**Loot found**   
+<h3>Loot found</h3>   
 
 |Cz|Laber|
 |:---|:---|
 |Nano Surgery Kit |Weapon Cage|
 |Surge Battery ||
 
-**Postgame Sequence**
+<h3>Postgame Sequence</h3> 
 
 Laber: (10 credits left)
 
