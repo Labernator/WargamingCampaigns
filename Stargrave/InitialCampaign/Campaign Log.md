@@ -1,4 +1,4 @@
-<ins>**Szenario 1 : Skymine**</ins>  
+<h2>**Szenario 1 : Skymine**</h2>  
 **XP Gained**   
 
 |XP Reason|Cz|Laber|
