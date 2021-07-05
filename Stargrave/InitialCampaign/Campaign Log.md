@@ -2,7 +2,7 @@ Szenario 1 : Skymine
 
 <h2>XP: </h2>
 | Reason | Cz      | Laber |
-| ----------| ----------- | ----------- |
+|:---|:---|:---|
 | at least 1 casualty | 30      | 30       |
 | participated | 30   | 30        |
 | powers activated | 70   | 50        |
