@@ -1,5 +1,5 @@
-<h2>**Szenario 1 : Skymine**</h2>  
-**XP Gained**   
+<h2>Szenario 1 : Skymine</h2>  
+**XP**   
 
 |XP Reason|Cz|Laber|
 |:---|:---|:---|
@@ -11,3 +11,18 @@
 |loot picked up|40|20|
 |scenario objective|0|20|
 |Total|210|190|
+
+**Casualties**   
+
+|Cz|Laber|
+|:---|:---|
+|Runner dead |Chiseler dead|
+|Trooper wounded |Runner wounded|
+| |Zeratul wounded|
+
+**Loot found**   
+
+|Cz|Laber|
+|:---|:---|
+|Nano Surgery Kit |Weapon Cage|
+|Surge Battery ||
