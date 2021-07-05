@@ -32,7 +32,11 @@
 
 Laber: (10 credits left)
 
--100xp -> +1 Level Zeratul -> 
+-100xp -> 
+
++1 Level Zeratul -> 
+
+Lower activation Heal from 10 to 9
 
 Sell Weapon Cage -> +150 credits
 
