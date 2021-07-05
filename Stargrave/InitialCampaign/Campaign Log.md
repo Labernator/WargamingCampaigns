@@ -1,4 +1,4 @@
-Szenario 1 : Skymine
+
 
 <h2>XP: </h2>
 | Reason | Cz      | Laber |
@@ -13,9 +13,9 @@ Szenario 1 : Skymine
 | Total | 210   | 190        |
 
 
-<ins>**Leader**</ins>  
-**Hellblaster Sergeant** (57)  
+<ins>**Szenario 1 : Skymine**</ins>  
+**XP Gained**   
 
-|M|WS|BS|
+|XP Reason|Cz|Laber|
 |:---|:---|:---|
 |6"|3+|3+|
