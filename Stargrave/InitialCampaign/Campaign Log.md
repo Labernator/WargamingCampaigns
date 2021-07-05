@@ -36,11 +36,16 @@ Laber:
 
 Sell Weapon Cage -> +150 credits
 
-Change gear on Serendis:
+Change gear on Selendis:
 
 **-** Combat Armour 
+
 **-** Rapid Fire
+
 **+** Heavy Armour
+
 **+** Flamethrower
+
 **+** Deck
+
 **+** Picks
