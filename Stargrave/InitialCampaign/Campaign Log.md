@@ -30,7 +30,7 @@
 
 <h3>Postgame Sequence</h3> 
 
-Laber: (10 credits left)
+**Laber: (10 credits left)**
 
 -100xp -> 
 
