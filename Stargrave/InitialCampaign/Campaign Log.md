@@ -42,8 +42,6 @@ Sell Weapon Cage -> +150 credits
 
 Buy new Chiseler => 20 credits
 
-**New Treasury: 140 credits**
-
 Change gear on Selendis:
 
 **-** Combat Armour 
@@ -57,3 +55,7 @@ Change gear on Selendis:
 **+** Deck
 
 **+** Picks
+
+**New Treasury: 140 credits**
+
+**New XP: 90**
