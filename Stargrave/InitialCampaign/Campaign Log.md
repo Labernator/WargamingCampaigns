@@ -61,7 +61,7 @@ Change gear on Selendis:
 **New XP: 90**
 
 
-**CZ: (60 credits left)**
+**CZ: (60 credits left)**  
 -200xp -> +2 Level Duran ->  
 Lower activation Adrenalin Surge from 11 to 10  
 Increase Fight to +5
