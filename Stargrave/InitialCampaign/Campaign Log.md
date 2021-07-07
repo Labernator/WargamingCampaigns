@@ -59,3 +59,24 @@ Change gear on Selendis:
 **New Treasury: 140 credits**
 
 **New XP: 90**
+
+
+**CZ: (60 credits left)**
+-200xp -> +2 Level Duran ->  
+Lower activation Adrenalin Surge from 11 to 10  
+Increase Fight to +5
+
+Fire Runner  
+Sell Surge Battery -> +100 credits  
+Buy new Chiseler & new Hacker => -40 credits
+
+Change gear on Alexei:  
+**-** Combat Armour  
+**-** Rapid Fire  
+**+** Light Armour  
+**+** Grenade Launcher  
+**+** Nano Surgery Kit  
+
+**New Treasury: 120 credits**  
+**New XP: 10**  
+**New Crew:** 2 Hacker, 2 Chiseler, 3 Trooper, 1 Grenadier
