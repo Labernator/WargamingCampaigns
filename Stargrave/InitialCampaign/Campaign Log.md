@@ -131,7 +131,7 @@ Change gear on Duran:
 **-** Flamethrower  
 **+** Advanced Tech Deck  
 **+** Heavy Armour  
-**+** Grenade Lauscher  
+**+** Grenade Launcher  
 
 Change gear on Alexei:  
 **-** Light Armour  
