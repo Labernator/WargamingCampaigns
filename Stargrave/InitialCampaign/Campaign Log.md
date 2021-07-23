@@ -127,7 +127,11 @@ Hire 2 Grenariers (they seem fair and balanced) -> -200 credits
 
 Change gear on Duran:  
 **-** Deck  
+**-** Combat Armour  
+**-** Flamethrower  
 **+** Advanced Tech Deck  
+**+** Heavy Armour  
+**+** Grenade Lauscher  
 
 Change gear on Alexei:  
 **-** Light Armour  
