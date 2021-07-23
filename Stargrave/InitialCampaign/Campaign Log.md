@@ -122,7 +122,8 @@ Lower activation Adrenalin Surge from 10 to 9
 Lower activation Regenerate from 7 to 6  
 
 Verkaufe Nano Surgery Kit - +120 credits  
-Buy Grenarier -> -100 credits  
+Fire Chiseler (F*ck that guy)  
+Hire 2 Grenariers (they seem fair and balanced) -> -200 credits  
 
 Change gear on Duran:  
 **-** Deck  
@@ -137,6 +138,6 @@ Change gear on Alexei:
 **+** Flamethrower  
 **+** Deck  
 
-**New Treasury: 140 credits**  
+**New Treasury: 40 credits**  
 **New XP: 50**  
-**New Crew:** 1 Hacker, 2 Chiseler, 3 Trooper, 2 Grenadier
+**New Crew:** 1 Hacker, 1 Chiseler, 3 Trooper, 3 Grenadier
