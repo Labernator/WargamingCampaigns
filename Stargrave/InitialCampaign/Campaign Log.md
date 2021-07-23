@@ -1,4 +1,4 @@
-<h2>Szenario 1 : Skymine</h2>  
+## Szenario 1 : Skymine 
 
 <h3>XP</h3>  
 
@@ -80,3 +80,53 @@ Change gear on Alexei:
 **New Treasury: 120 credits**  
 **New XP: 10**  
 **New Crew:** 2 Hacker, 2 Chiseler, 3 Trooper, 1 Grenadier
+
+## Szenario 2 : Overgrown Factory 
+
+<h3>XP</h3>  
+
+|XP Reason|Cz|Laber|
+|:---|:---|:---|
+|at least 1 casualty|30|30|
+|participated|30|30|
+|powers activated|100|100|
+|enemies killed|40|40|
+|loot unlocked|40|20|
+|scenario objective|0|10|
+|Total|240|230|
+
+<h3>Casualties</h3>    
+
+|Cz|Laber|
+|:---|:---|
+|Hacker dead |Grenadier dead|
+|Trooper wounded |Runner dead|
+|Grenadier wounded | |
+
+<h3>Loot found</h3>   
+
+|Cz|Laber|
+|:---|:---|
+|Nano Surgery Kit |Weapon Cage|
+|Surge Battery ||
+
+<h3>Postgame Sequence</h3> 
+
+**Laber: ()**
+
+
+
+**CZ: (120 credits left)**  
+-200xp -> +2 Level Duran ->  
+Lower activation Adrenalin Surge from 10 to 9  
+Lower activation Regenerate from 7 to 6  
+
+Buy Grenarier -> -100 credits  
+
+Change gear on Duran:  
+**-** Deck  
+**+** Advanced Tech Deck  
+
+**New Treasury: 20 credits**  
+**New XP: 50**  
+**New Crew:** 1 Hacker, 2 Chiseler, 3 Trooper, 2 Grenadier
