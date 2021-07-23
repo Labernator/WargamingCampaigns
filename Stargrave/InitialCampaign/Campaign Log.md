@@ -121,12 +121,22 @@ Change gear on Alexei:
 Lower activation Adrenalin Surge from 10 to 9  
 Lower activation Regenerate from 7 to 6  
 
+Verkaufe Nano Surgery Kit - +120 credits
 Buy Grenarier -> -100 credits  
 
 Change gear on Duran:  
 **-** Deck  
 **+** Advanced Tech Deck  
 
-**New Treasury: 20 credits**  
+Change gear on Alexei:  
+**-** Light Armour  
+**-** Grenade Launcher  
+**-** Nano Surgery Kit  
+**+** Heavy Armour  
+**+** Picks  
+**+** Flamethrower  
+**+** Hand Weapon  
+
+**New Treasury: 140 credits**  
 **New XP: 50**  
 **New Crew:** 1 Hacker, 2 Chiseler, 3 Trooper, 2 Grenadier
