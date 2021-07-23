@@ -135,7 +135,7 @@ Change gear on Alexei:
 **+** Heavy Armour  
 **+** Picks  
 **+** Flamethrower  
-**+** Hand Weapon  
+**+** Deck  
 
 **New Treasury: 140 credits**  
 **New XP: 50**  
