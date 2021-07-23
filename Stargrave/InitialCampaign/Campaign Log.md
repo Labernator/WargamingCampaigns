@@ -107,8 +107,8 @@ Change gear on Alexei:
 
 |Cz|Laber|
 |:---|:---|
-|Nano Surgery Kit |Weapon Cage|
-|Surge Battery ||
+|Advanced Tech Deck |Information (75)|
+||Information (125)|
 
 <h3>Postgame Sequence</h3> 
 
