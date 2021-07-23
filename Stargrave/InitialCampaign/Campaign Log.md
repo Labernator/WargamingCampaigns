@@ -112,9 +112,19 @@ Change gear on Alexei:
 
 <h3>Postgame Sequence</h3> 
 
-**Laber: ()**
+**Laber: (140 Credits left, 320 xp)**
+-300xp -> +3 Level
+Increase Fight to +5
+Lower activation Heal from 9 to 8
+Lower activation Dark Energy from 10 to 9
 
+Fire wounded Runner
+Hire Grenadier replacement (-100)
+Hire Runner replacement (+-0)
 
+**New Treasury: 40 credits**  
+**New XP: 20**  
+**New Crew:** 1 Hacker, 1 Chiseler, 2 Trooper, 1 Grenadier, 1 Burner, 2 Runner
 
 **CZ: (120 credits left)**  
 -200xp -> +2 Level Duran ->  
