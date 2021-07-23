@@ -121,7 +121,7 @@ Change gear on Alexei:
 Lower activation Adrenalin Surge from 10 to 9  
 Lower activation Regenerate from 7 to 6  
 
-Verkaufe Nano Surgery Kit - +120 credits
+Verkaufe Nano Surgery Kit - +120 credits  
 Buy Grenarier -> -100 credits  
 
 Change gear on Duran:  
