@@ -94,7 +94,7 @@ Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks
  - Coordinated Fire (12/0)  
  - Regenerate (12/0)  
 
-Heavy Armour, Flamethrower, Nano Surgery Kit
+Heavy Armour, Flamethrower, Deck, Picks
 
 **Crew**  
 Hacker, Chiseler, 3 Trooper (1 wounded), 3 Grenadier (1 wounded)
