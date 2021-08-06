@@ -28,8 +28,7 @@
 
 **Gear:** Combat Armour, Rapid Fire Gun   
 
-**Crew**  
-2 Runner, Hacker, Chiseler, 3 Trooper, Grenadier
+<ins>**Crew:**</ins> 2 Runner, Hacker, Chiseler, 3 Trooper, Grenadier
 
 
 ## Post Game 1: [Skymine](Campaign%20Log.md#szenario-1--skymine)
@@ -58,8 +57,7 @@
 
 **Gear:** Light Armour, Grenade Launcher, Nano Surgery Kit
 
-**Crew**  
-2 Hacker, 2 Chiseler, 3 Trooper (1 wounded), Grenadier
+<ins>**Crew:**</ins> 2 Hacker, 2 Chiseler, 3 Trooper (1 wounded), Grenadier
 
 
 ## Post Game 2: [Overgrown Factory](Campaign%20Log.md#szenario-2--overgrown-factory)
@@ -116,8 +114,7 @@
 
 **Gear:** Heavy Armour, Flamethrower, Deck, Picks
 
-**Crew**  
-Hacker, Chiseler, Runner, 2 Trooper (1 wounded), 3 Grenadier
+<ins>**Crew:**</ins> Hacker, Chiseler, Runner, 2 Trooper (1 wounded), 3 Grenadier
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
