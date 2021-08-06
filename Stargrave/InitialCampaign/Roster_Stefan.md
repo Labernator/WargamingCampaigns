@@ -32,8 +32,7 @@
 **Crew**  
 2 Runner, Hacker, Chiseler, 3 Trooper, Grenadier
 
-## Post Game 1
-[Skymine](Campaign%20Log.md#szenario-1--skymine)
+## Post Game 1: [Skymine](Campaign%20Log.md#szenario-1--skymine)
 
 **Captain** (Lvl 17)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
