@@ -209,7 +209,7 @@ Change gear on Alexei:
 -300xp -> +3 Level Duran ->  
 Lower activation Adrenalin Surge from 9 to 8  
 Improve Fight from +5 to +6   
-Improve Health from 17 to 18  
+Improve Shoot from +2 to +3  
 
 Hire Runner
 
