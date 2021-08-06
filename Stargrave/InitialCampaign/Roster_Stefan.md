@@ -107,7 +107,7 @@
 **Gear:** Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks  
 **Injuries:** Broken Arm
 
-**First Mate** (Lvl 0)  
+<ins>**First Mate**</ins> (Lvl 0)  
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |5|+4|+2|11|+2|15|
@@ -120,15 +120,15 @@
 **Gear:** Heavy Armour, Flamethrower, Deck, Picks
 
 **Crew**  
-Hacker, Chiseler, 3 Trooper (1 wounded), 3 Grenadier (1 wounded)
+Hacker, Chiseler, Runner, 2 Trooper (1 wounded), 3 Grenadier
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |Hacker|6|+1|+1|10|+1|12|LA, Pistol, Knife, Deck|
 |Chiseler|6|+1|+1|10|+1|12|LA, Pistol, Knife, Picks|
+|Runner|7|+2|+1|9|+1|12|Pistol, Knife|
 |Trooper 1|5|+2|+3|11|+0|14|HA, Carbine, Knife|
-|Trooper 2|5|+2|+3|11|+0|14|HA, Carbine, Knife|
-|Trooper 3|5|+2|+3|11|+0|7|HA, Carbine, Knife|
+|Trooper 2|5|+2|+3|11|+0|7|HA, Carbine, Knife|
 |Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
 |Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
-|Grenadier 1|5|+3|+3|11|+2|7|HA, Pistol, Grenade Launcher, Knife|
+|Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
