@@ -13,7 +13,7 @@
  - Holographic Wall (12/1)  
  - Transport (12/1)  
 
-Combat Armour, Flamethrower, Deck, Picks  
+**Gear:** Combat Armour, Flamethrower, Deck, Picks  
 
 **First Mate** (Lvl 0)  
 +2 Fight  
@@ -27,7 +27,7 @@ Combat Armour, Flamethrower, Deck, Picks
  - Coordinated Fire (12/0)  
  - Regenerate (12/0)  
 
-Combat Armour, Rapid Fire Gun   
+**Gear:** Combat Armour, Rapid Fire Gun   
 
 **Crew**  
 2 Runner, Hacker, Chiseler, 3 Trooper, Grenadier
@@ -36,7 +36,6 @@ Combat Armour, Rapid Fire Gun
 [Skymine](Campaign%20Log.md#szenario-1--skymine)
 
 **Captain** (Lvl 17)   
-
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |7|+5|+2|13|+3|17|
@@ -47,10 +46,9 @@ Combat Armour, Rapid Fire Gun
  - Holographic Wall (12/1)  
  - Transport (12/1)  
 
-Combat Armour, Flamethrower, Deck, Picks  
+**Gear:** Combat Armour, Flamethrower, Deck, Picks  
 
 **First Mate** (Lvl 0)  
-
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |6|+4|+2|10|+2|15|
@@ -60,7 +58,7 @@ Combat Armour, Flamethrower, Deck, Picks
  - Coordinated Fire (12/0)  
  - Regenerate (12/0)  
 
-Light Armour, Grenade Launcher, Nano Surgery Kit
+**Gear:** Light Armour, Grenade Launcher, Nano Surgery Kit
 
 **Crew**  
 2 Hacker, 2 Chiseler, 3 Trooper (1 wounded), Grenadier
@@ -70,7 +68,6 @@ Light Armour, Grenade Launcher, Nano Surgery Kit
 [Overgrown Factory](Campaign%20Log.md#szenario-2--overgrown-factory)
 
 **Captain** (Lvl 19)   
-
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |6|+5|+2|11|+3|17|
@@ -81,10 +78,9 @@ Light Armour, Grenade Launcher, Nano Surgery Kit
  - Holographic Wall (12/1)  
  - Transport (12/1)  
 
-Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks  
+**Gear:** Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks  
 
 **First Mate** (Lvl 0)  
-
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |5|+4|+2|11|+2|15|
@@ -94,7 +90,37 @@ Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks
  - Coordinated Fire (12/0)  
  - Regenerate (12/0)  
 
-Heavy Armour, Flamethrower, Deck, Picks
+**Gear:** Heavy Armour, Flamethrower, Deck, Picks
+
+
+## Post Game 2
+[The Derelict Warship](Campaign%20Log.md#szenario-3--the-derelict-warship)
+
+**Captain** (Lvl 22)   
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+6/+5|+2|11|+3|18|
+
+ - Adrenaline Surge (8/2)  
+ - Regenerate (6/0)  
+ - Toxic Claws (10/0)  
+ - Holographic Wall (12/1)  
+ - Transport (12/1)  
+
+**Gear:** Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks  
+**Injuries:** Broken Arm
+
+**First Mate** (Lvl 0)  
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|5|+4|+2|11|+2|15|
+
+ - Armoury (12/0)  
+ - Energy Shield (12/0)  
+ - Coordinated Fire (12/0)  
+ - Regenerate (12/0)  
+
+**Gear:** Heavy Armour, Flamethrower, Deck, Picks
 
 **Crew**  
 Hacker, Chiseler, 3 Trooper (1 wounded), 3 Grenadier (1 wounded)
