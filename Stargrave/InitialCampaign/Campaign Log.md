@@ -162,3 +162,57 @@ Change gear on Alexei:
 **New Treasury: 40 credits**  
 **New XP: 50**  
 **New Crew:** 1 Hacker, 1 Chiseler, 3 Trooper, 3 Grenadier
+
+## Szenario 3 : Derilict Warship
+
+<h3>XP</h3>  
+
+|XP Reason|Cz|Laber|
+|:---|:---|:---|
+|at least 1 casualty|30|30|
+|participated|30|30|
+|powers activated|100|70|
+|enemies killed|40|40|
+|loot unlocked|60|40|
+|scenario objective|15|5|
+|Total|275|215|
+
+<h3>Casualties</h3>    
+
+|Cz|Laber|
+|:---|:---|
+|Grenadier wounded |Flamer dead|
+|Trooper dead |Trooper dead|
+||Hacker wounded|
+||Chiseler wounded|
+||Trooper wounded|
+
+<h3>Loot found</h3>   
+
+|Cz|Laber|
+|:---|:---|
+|155 |Jump Pack|
+|Secret (200) |Shotgun Nr.11|
+
+<h3>Postgame Sequence</h3> 
+
+**Laber: (Credits left, xp)**
+
+
+**New Treasury:  credits**  
+
+**New XP: **  
+
+**New Crew:** 
+
+**CZ: (40 credits left)**  
+-300xp -> +3 Level Duran ->  
+Lower activation Adrenalin Surge from 10 to 9  
+Lower activation Regenerate from 7 to 6  
+
+Hire Runner
+
+**New Treasury: 195 credits**  
+**New XP: 25**  
+**New Crew:** 1 Hacker, 1 Chiseler, 1 Runner, 2 Trooper, 3 Grenadier
+
