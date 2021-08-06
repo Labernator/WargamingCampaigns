@@ -213,11 +213,6 @@ Improve Health from 17 to 18
 
 Hire Runner
 
-Change gear on Duran:  
-**-** Heavy Armour  
-**+** Combat Armour  
-Wenn Alexei seine Armoury Power schafft, dann behalte ich die Combat Armour umsonst für das Spiel. Wenn er sie nicht schafft, dann tausche ich sie vor dem Spiel gegen eine Heavy Armour. (S.33)
-
 **New Treasury: 195 credits, 1 secret**  
 **New XP: 25**  
 **New Crew:** 1 Hacker, 1 Chiseler, 1 Runner, 2 Trooper, 3 Grenadier
