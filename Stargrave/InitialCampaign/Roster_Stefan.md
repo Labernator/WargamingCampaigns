@@ -86,6 +86,8 @@
 
 **Gear:** Heavy Armour, Flamethrower, Deck, Picks
 
+<ins>**Crew:**</ins> Hacker, Chiseler, 3 Trooper (1 wounded), 3 Grenadier (1 wounded)  
+
 
 ## Post Game 3: [The Derelict Warship](Campaign%20Log.md#szenario-3--the-derelict-warship)
 <ins>**Captain**</ins> (Lvl 22)   
