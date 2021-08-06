@@ -163,7 +163,7 @@ Change gear on Alexei:
 **New XP: 50**  
 **New Crew:** 1 Hacker, 1 Chiseler, 3 Trooper, 3 Grenadier
 
-## Szenario 3 : Derilict Warship
+## Szenario 3 : The Derelict Warship
 
 <h3>XP</h3>  
 
@@ -183,7 +183,7 @@ Change gear on Alexei:
 |:---|:---|
 |Grenadier wounded |Flamer dead|
 |Trooper dead |Trooper dead|
-||Hacker wounded|
+|Duran crushed Arm|Hacker wounded|
 ||Chiseler wounded|
 ||Trooper wounded|
 
@@ -207,12 +207,18 @@ Change gear on Alexei:
 
 **CZ: (40 credits left)**  
 -300xp -> +3 Level Duran ->  
-Lower activation Adrenalin Surge from 10 to 9  
-Lower activation Regenerate from 7 to 6  
+Lower activation Adrenalin Surge from 9 to 8  
+Improve Fight from +5 to +6   
+Improve Health from 17 to 18  
 
 Hire Runner
 
-**New Treasury: 195 credits**  
+Change gear on Duran:  
+**-** Heavy Armour  
+**+** Combat Armour  
+Wenn Alexei seine Armoury Power schafft, dann behalte ich die Combat Armour umsonst für das Spiel. Wenn er sie nicht schafft, dann tausche ich sie vor dem Spiel gegen eine Heavy Armour. (S.33)
+
+**New Treasury: 195 credits, 1 secret**  
 **New XP: 25**  
 **New Crew:** 1 Hacker, 1 Chiseler, 1 Runner, 2 Trooper, 3 Grenadier
 
