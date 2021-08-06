@@ -63,8 +63,7 @@
 2 Hacker, 2 Chiseler, 3 Trooper (1 wounded), Grenadier
 
 
-## Post Game 2
-[Overgrown Factory](Campaign%20Log.md#szenario-2--overgrown-factory)
+## Post Game 2: [Overgrown Factory](Campaign%20Log.md#szenario-2--overgrown-factory)
 
 **Captain** (Lvl 19)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
@@ -92,8 +91,7 @@
 **Gear:** Heavy Armour, Flamethrower, Deck, Picks
 
 
-## Post Game 2
-[The Derelict Warship](Campaign%20Log.md#szenario-3--the-derelict-warship)
+## Post Game 3: [The Derelict Warship](Campaign%20Log.md#szenario-3--the-derelict-warship)
 
 **Captain** (Lvl 22)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
