@@ -1,6 +1,5 @@
 # Initial Roster
-
-**Captain** (Lvl 15)  
+<ins>**Captain**</ins> (Lvl 15)  
 +1 Health, +1 Move, +1Fight, Adrenaline Surge -1, Regenerate -1  
 
 |**M**|**F**|**S**|**A**|**W**|**H**|
@@ -15,7 +14,7 @@
 
 **Gear:** Combat Armour, Flamethrower, Deck, Picks  
 
-**First Mate** (Lvl 0)  
+<ins>**First Mate**</ins> (Lvl 0)  
 +2 Fight  
 
 |**M**|**F**|**S**|**A**|**W**|**H**|
@@ -32,9 +31,9 @@
 **Crew**  
 2 Runner, Hacker, Chiseler, 3 Trooper, Grenadier
 
-## Post Game 1: [Skymine](Campaign%20Log.md#szenario-1--skymine)
 
-**Captain** (Lvl 17)   
+## Post Game 1: [Skymine](Campaign%20Log.md#szenario-1--skymine)
+<ins>**Captain**</ins> (Lvl 17)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |7|+5|+2|13|+3|17|
@@ -47,7 +46,7 @@
 
 **Gear:** Combat Armour, Flamethrower, Deck, Picks  
 
-**First Mate** (Lvl 0)  
+<ins>**First Mate**</ins> (Lvl 0)  
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |6|+4|+2|10|+2|15|
@@ -64,8 +63,7 @@
 
 
 ## Post Game 2: [Overgrown Factory](Campaign%20Log.md#szenario-2--overgrown-factory)
-
-**Captain** (Lvl 19)   
+<ins>**Captain**</ins> (Lvl 19)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |6|+5|+2|11|+3|17|
@@ -78,7 +76,7 @@
 
 **Gear:** Heavy Armour, Grenade Launcher, Advanced Tech Deck, Picks  
 
-**First Mate** (Lvl 0)  
+<ins>**First Mate**</ins> (Lvl 0)  
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |5|+4|+2|11|+2|15|
@@ -92,8 +90,7 @@
 
 
 ## Post Game 3: [The Derelict Warship](Campaign%20Log.md#szenario-3--the-derelict-warship)
-
-**Captain** (Lvl 22)   
+<ins>**Captain**</ins> (Lvl 22)   
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
 |6|+6/+5|+2|11|+3|18|
