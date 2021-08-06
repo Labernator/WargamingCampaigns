@@ -126,5 +126,5 @@
 |Trooper 1|5|+2|+3|11|+0|14|HA, Carbine, Knife|
 |Trooper 2|5|+2|+3|11|+0|7|HA, Carbine, Knife|
 |Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
-|Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
-|Grenadier 1|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
+|Grenadier 2|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
+|Grenadier 3|5|+3|+3|11|+2|14|HA, Pistol, Grenade Launcher, Knife|
