@@ -29,3 +29,4 @@ If your General fought in at least one Battle and survived the Game, Roll a D6:
 - Welche Szenarios? 
  - Welche Secondary Objectives?
  - Welche Maps? 
+
