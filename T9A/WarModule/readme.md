@@ -12,12 +12,13 @@ Vorschlag:
 If your General fought in at least one Battle and survived the Game, Roll a D6:
 
 | Roll a D6 for the column / Roll another one  for the row  | 1-5 | 6 |
+| --- | --- | --- |
 | 1   | +1 Off       | Battle Finesse |
 | 2   | +1 Def       | Battle Hardened |
-| 1   | +1 Agi       | Feared by Reputation
-| 2   | +1 Dis       | Loot! |
-| 1   | -1 AS       | Deadeye |
-| 2   |   +4" inspiring presence    | Chosen General |
+| 3  | +1 Agi       | Feared by Reputation
+| 4   | +1 Dis       | Loot! |
+| 5  | -1 AS       | Deadeye |
+| 6 |   +4" inspiring presence    | Chosen General |
 
 
 
