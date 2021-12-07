@@ -9,9 +9,9 @@ Progress: +0.4k Army
 
 Vorschlag:
 
-If your General fought in at least one Battle and survived the Game, Roll a D6:
+If your General fought in at least one Battle and survived the Game, roll on the following table:
 
-| Roll a D6 for the column / Roll another one  for the row | 1-5 | 6 |
+| Roll 2D6 for column and row | 1-5 | 6 |
 | --- | --- | --- |
 | 1   | +1 Off       | Battle Finesse |
 | 2   | +1 Def       | Battle Hardened |
@@ -19,6 +19,20 @@ If your General fought in at least one Battle and survived the Game, Roll a D6:
 | 4   | +1 Dis       | Loot! |
 | 5  | -1 AS       | Deadeye |
 | 6 |   +4" inspiring presence    | Chosen General |
+
+
+The winning General May nominate an MVP unit and Roll on the table below:
+
+| Roll 2D6 for column and row | 1-5 | 6 |
+| --- | --- | --- |
+| 1   | +1 Off       | Frontrunners |
+| 2   | +1 Def       | Eager to strike |
+| 3  | +1 Agi       | Specialists |
+| 4   | +1 Move       | Eager to battle |
+| 5  | -1 AS       | Battlesworn |
+| 6 |   +1 S in the First round of combat    | The Unmoved |
+
+
 
 
 
