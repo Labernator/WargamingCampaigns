@@ -11,8 +11,8 @@ Vorschlag:
 
 If your General fought in at least one Battle and survived the Game, Roll a D6:
 
-| Roll a D6 for the column /  | 1-5 | 6 |
-| Roll another one  for the row | --- |
+| Roll a D6 for the column / | 1-5 | 6 |
+| Roll another one  for the row | --- | --- |
 | --- | --- | --- |
 | 1   | +1 Off       | Battle Finesse |
 | 2   | +1 Def       | Battle Hardened |
