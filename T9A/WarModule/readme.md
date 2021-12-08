@@ -28,9 +28,13 @@ If your General fought in at least one Battle and survived the Game, roll on the
 | 6 |   +4" inspiring presence    | Chosen General |
 
 **Battle Finesse**: the general advances in battle skills - the general gains +1 Offense and +1 Discipline (one battle).
+
 **Battle Hardened**: the general gains understanding in taking blows in a less harmful manner - the general gains +1 Resilience (permanently).
+
 **Feared by Reputation**: the general’s actions precede him - Enemy unit’s within 6” of the general have -1 Discipline
+
 **Loot!**: the general conquers an enemy magical item - your general can chose a 60 pt magical item from the Rulebook. This item may be equipped regardless of Rulebook or Army Book restriction.
+
 **Deadeye**: the general has been awarded a nifty firearm by a famous smith - your general gains a Sniper Repeater gun with the following stats: Repeater gun (2+), Strength 5, Armour Piercing (2), Range 24”, Quick to Fire, Multiple shots (4).
 
 > Das finde ich etwas strange um ehrlich zu sein. Hast du eine bessere Idee, was man hier machen kann? Es gibt einfach Helden, denen traue ich nicht zu eine Knarre zu führen (schon gar nicht mit 2+). Beastlord! Yeah looking at you!
@@ -53,9 +57,13 @@ The winning General May may nominate an MVP unit (that **ideally** survived the 
 > Das ist ja gedacht, damit man units randomized. Ich würde aber vorschlagen, dass wir eine MVP Unit benennen dürfen. Ist ja meist recht eindeutig, wer sich in einer Schlacht hervorgetan hat. Nur kann es eben sein, dass man dann eine Unit mit >400 hat. Sollen wir es beibehalten, dass die Promo dann nicht kommt? Ist halt nicht so lustig, selbst mit 1/36 Wahrscheinlichkeit. Können wir dann nicht einfach eine andere Ability vergeben?
 
 **Eager to Strike**: last battle led to an increase of the mutual competitiveness - unit gains “Fight in Extra Ranks” and lose 1 Defense point.
+
 **Specialists**: this unit had taken a special interest in rough terrain and mountenairing - unit treat impassable terrain as open terrain.
+
 **Eager to Battle**: the thought of combat caused great excitement for this unit - unit gains swiftstride (once per battle, declare at the start of the units movement phase)
+
 **Battlesworn**: after countless melee combats, this unit knew where to strike to cause the hurtin - the unit gains + 1 Offense point. 
+
 **The Unmoved**: being used to ferocious enemies, this unit knew how to keep their cool - the unit may reroll failed discipline tests
 
  - Behalten wir die Punktebeschränkungen vom Anfang bei?  
