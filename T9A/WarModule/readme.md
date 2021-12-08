@@ -69,16 +69,10 @@ The winning General May may nominate an MVP unit (that **ideally** survived the 
 
 
 ## Offene Fragen:
- - Campaign rules:
-
-
- - Was für Progression gibt es noch?  
-
-
  - Behalten wir die Punktebeschränkungen vom Anfang bei?  
  M.: Ich würde das mitwachsen lassen. Dh. Helden am Anfang 300/2500, am Ende dann 540/4500. Dasselbe mit Units. Nimmt einem Vampir aber zb. Die Option einen Drachen zu kaufen. Evtl. Kann man ja bei mounta abweichen? Hast du einen Vorschlag? Die 35% Core würde ich nicht weiter übernehmen. Min. 875 Core bzw. Was das jeweilige Army Buch sagt.
  S.: Klingt gut. Die Core Beschränkung würde ich auch aufheben das wird sonst sehr viel Infanterie... 
- M.: habe es mal oben in Campaign rules zusammengefasst
+ M.: habe es mal oben zusammengefasst
 
 - Welche Szenarios? 
  - Welche Secondary Objectives?
