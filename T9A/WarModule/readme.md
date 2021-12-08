@@ -1,18 +1,19 @@
 # T9A Campaign
 Army size: 2.5k  
+
 Number of Games: 5  
+
 Progress: +0.4k Army  
 
-## Offene Fragen:
- - Campaign rules:
-
 Rising Chieftain: no character may exceed 12% of the overall Army size (300 pts at the beginning)
-Fresh Troops: no unit may exceed 22% of the overall Army size (550 pts at the beginning)
-Bread and Butter: core needs to be at least 875 pts of the total points spend or more if specified different in the army rule book
-Magic runs on a 2D3 dice roll
-No Wizard Masters allowed at the beginning
 
- - Was für Progression gibt es noch?  
+Fresh Troops: no unit may exceed 22% of the overall Army size (550 pts at the beginning)
+
+Bread and Butter: core needs to be at least 875 pts of the total points spend or more if specified different in the army rule book
+
+Magic runs on a 2D3 dice roll
+
+No Wizard Masters allowed at the beginning
 
 Vorschlag:
 
@@ -65,6 +66,14 @@ The winning General May may nominate an MVP unit (that **ideally** survived the 
 **Battlesworn**: after countless melee combats, this unit knew where to strike to cause the hurtin - the unit gains + 1 Offense point. 
 
 **The Unmoved**: being used to ferocious enemies, this unit knew how to keep their cool - the unit may reroll failed discipline tests
+
+
+## Offene Fragen:
+ - Campaign rules:
+
+
+ - Was für Progression gibt es noch?  
+
 
  - Behalten wir die Punktebeschränkungen vom Anfang bei?  
  M.: Ich würde das mitwachsen lassen. Dh. Helden am Anfang 300/2500, am Ende dann 540/4500. Dasselbe mit Units. Nimmt einem Vampir aber zb. Die Option einen Drachen zu kaufen. Evtl. Kann man ja bei mounta abweichen? Hast du einen Vorschlag? Die 35% Core würde ich nicht weiter übernehmen. Min. 875 Core bzw. Was das jeweilige Army Buch sagt.
