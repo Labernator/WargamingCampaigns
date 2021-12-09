@@ -21,12 +21,12 @@ If your General fought in at least one Battle and survived the Game, roll on the
 
 | Roll 2D6 for column and row | 1-5 | 6 |
 | --- | --- | --- |
-| 1   | +1 Off       | Battle Finesse |
-| 2   | +1 Def       | Battle Hardened |
-| 3  | +1 Agi       | Feared by Reputation
-| 4   | +1 Dis       | Loot! |
-| 5  | -1 AS       | Deadeye |
-| 6 |   +4" inspiring presence    | Chosen General |
+| 1 | +1 Off | Battle Finesse |
+| 2 | +1 Def | Battle Hardened |
+| 3 | +1 Agi | Feared by Reputation
+| 4 | +1 Dis | Untouchable |
+| 5 | -1 AS | Bloodthirsty |
+| 6 | +4" inspiring presence | Chosen General |
 
 **Battle Finesse**: the general advances in battle skills - the general gains +1 Offense and +1 Discipline (one battle).
 
