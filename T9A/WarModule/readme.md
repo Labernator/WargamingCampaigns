@@ -35,8 +35,8 @@ If your General fought in at least one Battle and survived the Game, roll on the
 
 **Feared by Reputation**: the general’s actions precede him - Enemy unit’s within 6” of the general have -1 Discipline
 
-**Untouchable**: Aegis (6+), Distracting, Cannot be stomped oder +1 Def and +1 Discipline (one battle)
-> Ein gegenvorschlag zum Loot: Irgendwas defensives. Sonst gibt es hier nur Battle Hardened (Sick by the way!).
+**Untouchable**: Aegis (6+), Distracting, Cannot be stomped, Stubborn, Swift reform
+> Ein gegenvorschlag zum Loot: Irgendwas defensives oder nützliches. Sonst gibt es hier nur Battle Hardened (Sick by the way!).
 
 **Bloodthirsty**: the general is on a killing spree and wants to get into the action ASAP - your general gains Devastating Charge (+ 1 Adv).
 
