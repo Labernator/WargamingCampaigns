@@ -93,7 +93,7 @@ Oder ist würfeln doof und der Verlierer darf sich das Szenario plus objective a
 
  - Welche Maps? 
 
-5 von diesen 10. Der Verlierer wählt. Erste Map entscheidet ein w10.
+5 von diesen 10. Der Sieger wählt (Verlierer darf das 2nd objective aussuchen). Erste Map entscheidet ein w10.
 Nachdem eine Map gespielt ist, wird sie gestrichen.
 
 A4
