@@ -53,6 +53,7 @@ If your General fought in at least one Battle and survived the Game, roll on the
  - Welche Secondary Objectives?
 
 Am liebsten hätte ich hier einen W12 um ehrlich zu sein. Dann noch die Frage, 1 Secondary oder 2 pro Match? Wahrscheinlich mal mit einem anfangen und dann kann man ja nach der Kampagne evaluieren, ob 2 vielleicht witziger wären.
+Oder ist würfeln doof und der Verlierer darf sich das Szenario plus objective aussuchen?
 
 | Roll a D12 | Secondary Objective | 
 | --- | --- |
@@ -91,4 +92,27 @@ Am liebsten hätte ich hier einen W12 um ehrlich zu sein. Dann noch die Frage, 1
 
 
  - Welche Maps? 
+
+5 von diesen 10. Der Verlierer wählt. Erste Map entscheidet ein w10.
+Nachdem eine Map gespielt ist, wird sie gestrichen.
+
+A4
+
+A5
+
+A6
+
+A7
+
+A8
+
+B1
+
+B2
+
+B3
+
+B5
+
+B8
 
