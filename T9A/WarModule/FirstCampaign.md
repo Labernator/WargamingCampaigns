@@ -23,21 +23,19 @@
 | 5| -1 AS |	Bloodthirsty|
 | 6 |+4" inspiring presence	| Chosen General|
 
-**Battle Finesse**: the general advances in battle skills - the general gains +1 Strength.
+**Battle Finesse**: the general gains +1 Strength.
 
-**Battle Hardened**: the general gains understanding in taking blows in a less harmful manner - the general gains +1 Resilience (permanently).
+**Battle Hardened**: the general gains +1 Resilience (permanently).
 
-Feared by Reputation: the general’s actions precede him - Enemy unit’s within 6” of the general have -1 Discipline
+Feared by Reputation: Enemy unit’s within 6” of the general have -1 Discipline
 
-**Untouchable**: Aegis (6+), Distracting, Cannot be stomped, Stubborn, Swift reform
+**Untouchable**: Aegis (6+), Cannot be stomped, Stubborn oder Swift reform
 
 > Ein gegenvorschlag zum Loot: Irgendwas defensives oder nützliches. Sonst gibt es hier nur Battle Hardened (Sick by the way!).
 
-**Bloodthirsty**: the general is on a killing spree and wants to get into the action ASAP - your general gains Devastating Charge (+ 1 Adv, +1 AP).
+**Bloodthirsty**: the general gains Devastating Charge (+ 1 Adv, +1 AP).
 
-> Ein gegenvorschlag zu der Knarre: Devastating Charge. Das charmante an dieser Ability ist, dass man in die Klammer schreiben darf was man will. +1 Movement beim Chargen ist gut, aber jetzt auch nicht super geil. Ich würder ungern etwas wie +1 Strength oder Poison attacks oder etwas ähnlich krasses nehmen. Hast du eine andere Ability die ähnlich gut, aber nicht broken ist? Ist natürlich dann wieder gemein für Generäle, die nicht in den Nahkampf wollen. Wobei mir nur Caster einfallen an der Stelle. Für unsere Kampagne erstmal egal. Aber wenn jemand Elfen oder Lizards spielen will, muss man hier vermutlich nochmal ran.
-
-**Chosen General**: the general gains undivided respect from his army - your general gains + 1D6” of range for Inspiring Presence (permanently).
+**Chosen General**: the general gains + 1D6” of range for Inspiring Presence (permanently).
 
 ### Warband restrictions
 
