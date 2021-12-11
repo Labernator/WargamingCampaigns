@@ -43,8 +43,6 @@ If your General fought in at least one Battle and survived the Game, roll on the
 
 **Bloodthirsty**: the general is on a killing spree and wants to get into the action ASAP - your general gains Devastating Charge (+ 1 Adv).
 
-> Ein gegenvorschlag zu der Knarre: Devastating Charge. Das charmante an dieser Ability ist, dass man in die Klammer schreiben darf was man will. +1 Movement beim Chargen ist gut, aber jetzt auch nicht super geil. Ich würder ungern etwas wie +1 Strength oder Poison attacks oder etwas ähnlich krasses nehmen. Hast du eine andere Ability die ähnlich gut, aber nicht broken ist? Ist natürlich dann wieder gemein für Generäle, die nicht in den Nahkampf wollen. Wobei mir nur Caster einfallen an der Stelle. Für unsere Kampagne erstmal egal. Aber wenn jemand Elfen oder Lizards spielen will, muss man hier vermutlich nochmal ran.
-
 **Chosen General**: the general gains undivided respect from his army - your general gains + 1D6” of range for Inspiring Presence (permanently). 
 
 ## Offene Fragen:
