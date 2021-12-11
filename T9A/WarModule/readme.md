@@ -53,7 +53,7 @@ If your General fought in at least one Battle and survived the Game, roll on the
  - Welche Secondary Objectives?
 
 Am liebsten hätte ich hier einen W12 um ehrlich zu sein. Dann noch die Frage, 1 Secondary oder 2 pro Match? Wahrscheinlich mal mit einem anfangen und dann kann man ja nach der Kampagne evaluieren, ob 2 vielleicht witziger wären.
-Oder ist würfeln doof und der Verlierer darf sich das Szenario plus objective aussuchen?
+Oder ist würfeln doof und der Verlierer darf sich das objective aussuchen?
 
 | Roll a D12 | Secondary Objective | 
 | --- | --- |
@@ -63,32 +63,24 @@ Oder ist würfeln doof und der Verlierer darf sich das Szenario plus objective a
 | 4 | Target enemy |
 | 5 | Breach! |
 | 6 | Flood! |
-| 7 | The Rite |
-| 8 | Secure Quarter |
-| 9 | Battlefield Dance |
-| 10 |  |
-| 11 |  |
-| 12 |  |
+| 7 | Secure Quarter |
+| 8 | Globetrotter |
 
-**Assassination**: killing an enemy leader will break their spirit - write down one of your enemies characters on a card and place if face down next to the board. If you kill that character, you gain 500 points extra. If it survives, your opponent gains 250 points
+**Assassination**: write down one of your enemies characters on a card and place if face down next to the board. If you kill that character, you gain double its victory points. If it survives, your opponent gains half its victory Points to a max of 250.
 
-**Invitation**: redirecting the enemy to a favorable place on the battlefield requires great skill - write down an enemy, none-warmachine unit on a card and write down a quarter of the table (topleft, topright, bottomleft, bottomright). Place the card face down next to the board. If the designated unit ends in the designated table quarter at the end of the game, or just before the unit dies of flee’s of the table, you gain half the unit’s value in victory point.
+**Invitation**: write down an enemy, none-warmachine unit on a card and write down a quarter of the table (topleft, topright, bottomleft, bottomright). Place the card face down next to the board. If the designated unit ends in the designated table quarter at the end of the game, or just before the unit dies of flee’s of the table, you gain half its point.
 
-**Flags**: retrieving valuable items in the midst of battle put’s your forces at risk; is it worth it?  - place 2 flags each (Stargrave style). If a unit ends its movement phase on a flag, you receive 200 pts. A flag can only grant victory points once. 
+**Flags**: place 2 flags each (Stargrave style). If a unit ends its movement phase on a flag, you receive 5%. (Zu viel?) A flag can only grant victory points once. 
 
-**Target enemy**: defeating an infamous enemy unit can change the tide of a campaign  - mark an enemy unit after deployment. If you kill this unit you gain double its victory points. 
+**Target enemy**: mark an enemy unit after deployment. If you kill this unit you gain double its victory points. 
 
-**Breach!**: when all that matter is reaching the enemies grounds - Player A: for each unit that enters the enemy deployment zone, you gain 200 pts. A unit can only gain victory points by doing so once. Player B: for each unit your enemy can not get into your deployment zone, you gain 200 pts
+**Breach!**: when at least one scoring unit ends The Game in The opponents deployment Zone gain 10% victory points
 
-**Flood!**: when there is a graver danger then enemy forces closing in on you -  open objective - For each of your units that are on a hill or in a house at the end of the game, you gain 700 pts
+**Flood!**: For each of your scoring units that are on a hill or in a house at the end of the game, you gain 5%
 
-**The Rite**: sometimes the gods demand terrible sacrifices, to serve the higher purpose- hidden objective - if you lose over 90% of your army (in pts) during the game, you gain 40% of the point costs of each of your own units that were killed. 
+**Secure Quarter**: roll to designate the defending player. The defending player chooses a table quarter. The attacking player receives 10% VP If one of His scoring units is in The table Quarter. The defending Player gains 10% If No enemy scoring unit ist in that sector at The end of The game
 
-**Secure Quarter**: defend a sector of the table at all costs - open objective, for both sides - roll to designate the defending player. The defending player chooses a table quarter. He needs to prevent enemy troops from entering this quarter. The defending players starts with 750 secondary victory pts. The attacking player receives 125 pts per turn for each unit in the designated zone. 
-
-**Battlefield Dance**: victory to the most mobile unit of the game - open objective - each player designates one of his unit’s. That unit gains 200 pts for every time it ends it’s movement phase on / in a terrain element. The unit must be in/on the terrein element with over 50% of it’s footprint. Each terrain element can only provide points once, but can provide the points to both players designated unit’s. 
-
-
+**Globetrotter**: nominate a unit at The start of The Game. gain 5% VP Form every Terrain piece Outside your own deployment Zone this unit enters (max. 3 Terrain piece)
 
 
  - Welche Maps? 
