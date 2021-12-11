@@ -25,17 +25,17 @@
 
 **Battle Finesse**: the general gains +1 Strength.
 
-**Battle Hardened**: the general gains +1 Resilience (permanently).
+**Battle Hardened**: the general gains +1 Resilience.
 
 Feared by Reputation: Enemy unit’s within 6” of the general have -1 Discipline
 
 **Untouchable**: Aegis (6+), Cannot be stomped, Stubborn oder Swift reform
 
-> Ein gegenvorschlag zum Loot: Irgendwas defensives oder nützliches. Sonst gibt es hier nur Battle Hardened (Sick by the way!).
+> Irgendwas defensives oder nützliches. Stubborn ist wahrscheinlich zu stark, cannot bei stomped wohl zu schwach. Ich tendiere zu Swift Reform
 
 **Bloodthirsty**: the general gains Devastating Charge (+ 1 Adv, +1 AP).
 
-**Chosen General**: the general gains + 1D6” of range for Inspiring Presence (permanently).
+**Chosen General**: the general gains + 1D6” of range for Inspiring Presence.
 
 ### Warband restrictions
 
