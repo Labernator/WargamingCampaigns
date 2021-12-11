@@ -23,9 +23,7 @@
 | 5| -1 AS |	Bloodthirsty|
 | 6 |+4" inspiring presence	| Chosen General|
 
-**Battle Finesse**: the general advances in battle skills - the general gains +1 Offense and +1 Discipline (one battle).
-
-> Das ist irgendwie der Zonk! Ist halt irgendwie schlechter als ein permanenter Advance den man bei 1-5 kriegt. Also ich würde mich ärgern
+**Battle Finesse**: the general advances in battle skills - the general gains +1 Strength.
 
 **Battle Hardened**: the general gains understanding in taking blows in a less harmful manner - the general gains +1 Resilience (permanently).
 
