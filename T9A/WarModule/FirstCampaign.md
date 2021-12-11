@@ -21,7 +21,7 @@
 | 3	|+1 Agi	|Enemy unit’s within 6” of the general have -1 Dis|
 | 4	|+1 Dis	| Gains Swift Reform (or Stubborn???)|
 | 5| -1 AS| Gains Devastating Charge (+ 1 Adv, +1 AP)|
-| 6 |+4" inspiring presence	|+ 1D6” of range for Inspiring Presence|
+| 6 |+4" inspiring presence	|+6” Inspiring Presence|
 
 ### Warband restrictions
 
