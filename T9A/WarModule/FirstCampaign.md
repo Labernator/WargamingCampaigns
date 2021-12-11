@@ -16,26 +16,12 @@
 
 | Roll 2D6 for column and row |	1-5 | 6 |
 | ---| --- | --- |
-| 1 |	+1 Off	|Battle Finesse|
-| 2	|+1 Def|	Battle Hardened|
-| 3	|+1 Agi	|Feared by Reputation|
-| 4	|+1 Dis	|Untouchable|
-| 5| -1 AS |	Bloodthirsty|
-| 6 |+4" inspiring presence	| Chosen General|
-
-**Battle Finesse**: the general gains +1 Strength.
-
-**Battle Hardened**: the general gains +1 Resilience.
-
-Feared by Reputation: Enemy unit’s within 6” of the general have -1 Discipline
-
-**Untouchable**: Aegis (6+), Cannot be stomped, Stubborn oder Swift reform
-
-> Irgendwas defensives oder nützliches. Stubborn ist wahrscheinlich zu stark, cannot bei stomped wohl zu schwach. Ich tendiere zu Swift Reform
-
-**Bloodthirsty**: the general gains Devastating Charge (+ 1 Adv, +1 AP).
-
-**Chosen General**: the general gains + 1D6” of range for Inspiring Presence.
+| 1 |	+1 Off	| +1 Str |
+| 2	|+1 Def | +1 Des |
+| 3	|+1 Agi	|Enemy unit’s within 6” of the general have -1 Dis|
+| 4	|+1 Dis	| Gains Swift Reform (or Stubborn???)|
+| 5| -1 AS| Gains Devastating Charge (+ 1 Adv, +1 AP)|
+| 6 |+4" inspiring presence	|+ 1D6” of range for Inspiring Presence|
 
 ### Warband restrictions
 
