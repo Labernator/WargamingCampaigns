@@ -19,16 +19,16 @@
 | 1 |	+1 Off	| +1 Str |
 | 2	|+1 Def | +1 Des |
 | 3	|+1 Agi	|Enemy unit’s within 6” of the general have -1 Dis|
-| 4	|+1 Dis	| Gains Swift Reform (or Stubborn???)|
+| 4	|+1 Dis	| Gains Stubborn)|
 | 5| -1 AS| Gains Devastating Charge (+ 1 Adv, +1 AP)|
-| 6 |+4" inspiring presence	|+6” Inspiring Presence|
+| 6 |+4" inspiring presence	| Gains Rally around the flag |
 
 ### Warband restrictions
 
 + Rising Chieftains: no character may exceed 12% of the overall army size
 + Fresh Troops: no unit may exceed 22% of the overall Army size
 + Bread and Butter: core needs to be at least 875 pts and must respect the rules given in the army book
-+ No Wizard Masters
++ No Wizard Masters in starting Warband
 
 ## Scenario 1: Clash at High Noon
 
