@@ -13,3 +13,13 @@ Der First Mate ist leider eine Krücke.
 > Vorschlag 1: man muss zwischen First Mate und Captain alternieren beim Level up
 
 > Vorschlag 2: man führt ein progressives Level System ein ( alle 1-5 Level braucht man mehr XP um aufzusteigen)
+
+Gute 3 Spieler Szenarios
+- einige Maps eignen sich nicht für 3 Spieler (The Derelict Warship)
+
+> Wir müssen einige Szenarien ausschließen
+
+Deployment fair gestalten
+- wenn einer zwischen den anderen beiden sitzt ist es bedeutend schwieriger
+
+> Möglichst symmetrische Aufstellungen produzieren bei der alle etwa gleich weit voneinander weg sind
