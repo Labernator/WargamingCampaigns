@@ -4,7 +4,7 @@ Weniger Dudes für ein schnelleres Spiel.
 - die Vermutung ist, dass es mit 3 Spielern sehr viel länger dauert. Um dem entgegenzuwirken sollten wir weniger Minis aufs Brett stellen. 
 > Vorschlag: max Größe eines Teams 7 statt 10
 
-Granatwerfer sind Brocken!
+Granatwerfer sind Broken!
 - wir hatten schon die entschärfte Variante gespielt, bei der ein miss nichts macht. Auch das war zu gut. 
 > Vorschlag: man darf den Grenadier nicht anheuern
 
@@ -22,4 +22,4 @@ Gute 3 Spieler Szenarios
 Deployment fair gestalten
 - wenn einer zwischen den anderen beiden sitzt ist es bedeutend schwieriger
 
-> Möglichst symmetrische Aufstellungen produzieren bei der alle etwa gleich weit voneinander weg sind
+> Vorschlag: Möglichst symmetrische Aufstellungen produzieren bei der alle etwa gleich weit voneinander weg sind
