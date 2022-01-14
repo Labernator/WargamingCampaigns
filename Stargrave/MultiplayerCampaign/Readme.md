@@ -11,4 +11,5 @@ Granatwerfer sind Brocken!
 Der First Mate ist leider eine Krücke. 
 - Es gibt keinen guten Grund ihn zu Leveln. Also müssen wir einen schaffen!
 > Vorschlag 1: man muss zwischen First Mate und Captain alternieren beim Level up
+
 > Vorschlag 2: man führt ein progressives Level System ein ( alle 1-5 Level braucht man mehr XP um aufzusteigen)
