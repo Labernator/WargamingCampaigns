@@ -19,6 +19,20 @@ Gute 3 Spieler Szenarios
 
 > Wir müssen einige Szenarien ausschließen
 
+Szenarios die funktionieren:
+ - The Botched Deal
+ - Salvage Crew
+ - Steam Vents of the Undercity
+ - Data Vault (denke ich) 
+ - Skymine
+ - Broken Fence (3 Löcher im Zaun) 
+ - Starport Raid (ggf mehr als 4 Raumschiffe) 
+ - Overgrown Factory
+ - Fire Moon (hier bin ich mir nicht sicher. Y Form der Flüsse? Oder 3 Flüsse) 
+
+Loot Verteilung
+ - Wieviel Loot Token und wo sollen sie platziert sein? 
+
 Deployment fair gestalten
 - wenn einer zwischen den anderen beiden sitzt ist es bedeutend schwieriger
 
