@@ -6,7 +6,7 @@ Die einfachste Möglichkeit das Deployment für drei Spieler fair zu gestalten i
 
 Der offensichtliche Nachteil ist, dass unser schönes Gelände alles viereckig ist. Die vermutlich Beste Möglichkeit mit Labers Platten ist folgende:
 
-![Spielfeld](PicDump/Hexagon2.jpg)
+![Spielfeld](PicDump/Hexagon2.png)
 
 Ist ein bisschen fuzzy an den Schrägen, wo genau das Spielfeld endet und wir brauchen ein bisschen Gerümpel für die Fläche ohne Terrain, aber etwas Besseres ist mir nicht eingefallen.
 
@@ -15,7 +15,7 @@ Auch da haben sich Nerds schonmal Gedanken gemacht: [Link]( https://www.tga.comm
 
 Das Ganze zielt auf ein anderes Spiel ab und ich habe die Bilder in aller Ehrlichkeit nicht komplett durchschaut. Relevant für uns ist (vermutlich) folgendes Bild:
 
-![Spielfeld](PicDump/Quadrat.jpg)
+![Spielfeld](PicDump/Quadrat.png)
 
 Die Zonen die hier RND 3 heißen sind für uns vermutlich gute Deployment Zonen. Probleme sind, dass mir nicht ersichtlich ist, wie tief die Zonen sein sollen (was a für die Entfernungen sehr relevant ist) und ob die Zahlen bei uns passen. Das Feld hier hat 30" x 22".   
 Und um das Explizit für unsere Platte zu berechnen fehlt mir derzeit die Muse.
