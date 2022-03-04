@@ -22,6 +22,10 @@
 
 ![Hexagon](PicDump/Hexagon.jpg)
 
+> Granatwerfer scattern nicht bei einem Miss. Sie machen nichts, wie andere Waffen auch
+
+> Charaktere sterben nicht. Anstelle des "Dead" verpassen sie nur das folgende Spiel
+
 ## Fragen und Antworten:
 
 Weniger Dudes für ein schnelleres Spiel.
