@@ -26,6 +26,8 @@
 
 > Charaktere sterben nicht. Anstelle des "Dead" verpassen sie nur das folgende Spiel
 
+> Keine Critical Hits - 20er Rolls sind verheerend genug
+
 ## Fragen und Antworten:
 
 Weniger Dudes für ein schnelleres Spiel.
