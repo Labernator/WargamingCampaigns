@@ -28,6 +28,8 @@
 
 > Keine Critical Hits - 20er Rolls sind verheerend genug
 
+> Quick step Power - erster Satz wird gestrichen, was quasi ein 7 Zoll movement macht
+
 ## Fragen und Antworten:
 
 Weniger Dudes für ein schnelleres Spiel.
