@@ -9,7 +9,7 @@
  - Adrenaline Surge (13/2)  
  - Mystic Trance (9/0)  
  - Drone (10/1)  
- - Remote Firing (10/1)  
+ - Remote Firing (10/0)  
  - Repair Robot (10/0)  
 
 **Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
@@ -22,8 +22,8 @@
 |6|+3|+2|11|+2|15|
 
  - Regenerate (12/0)  
- - Remote Firing (12/1)  
- - Energy Shield (12/1)  
+ - Remote Firing (12/0)  
+ - Energy Shield (12/0)  
  - Armoury (12/0)  
 
 **Gear:** Heavy Armour, Flamethrower, Deck, Picks
