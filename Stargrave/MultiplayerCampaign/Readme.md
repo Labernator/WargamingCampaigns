@@ -21,7 +21,7 @@
 <ins>**Deployment**</ins>
  - Sechseckiges Spielfeld - Aufstellung an 3 der 6 Seiten, jeweils innerhalb von 5" von der Mitte dieser Seite
 
-<img src="PicDump/Hexagon.jpg" alt="Hexagon" width="100"/>
+<img src="PicDump/Hexagon.jpg" alt="Hexagon" width="300"/>
 
 <ins>**Weapons**</ins>
  - Granatwerfer scattern nicht bei einem Miss. Sie machen nichts, wie andere Waffen auch
@@ -35,5 +35,5 @@
 <ins>**Extreme Results**</ins>
  - Keine Critical Hits - 20er Rolls sind verheerend genug
 
-## Kampagne!!
-2022-03-13: Skymine
+## Spiele!!
+ - [Skymine](GameLogs/2022_03_13_Skymine.md) 13.03.22
