@@ -34,7 +34,7 @@
 <ins>**XP:**</ins> 0
 
 # 13.3.22 Skyline
-**XP:** 210 => 1 Lvl für Captain (lower Adrenaline Surge) und 1st Mate (lower Remote Firing) 
+**XP:** 210 => 1 Lvl für Captain (lower Adrenaline Surge) und 1st Mate (lower Remote Firing)  
 **Injuries:** 1 Hacker wounded  
 **Loot:** 300cr, Shotgun +1 Shoot, => Meditation Chamber kaufen (400), verwundeten Hacker ersetzen (20)  
 
