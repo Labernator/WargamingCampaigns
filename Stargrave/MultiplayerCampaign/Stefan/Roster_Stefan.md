@@ -65,7 +65,7 @@
 
 **Gear:** Heavy Armour, Grenade Launcher, Hand Weapon  
 
-<ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper
+<ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper (mit +1 Shotgun)  
 
 
 <ins>**Ship:**</ins> Meditation Chamber  
@@ -76,5 +76,5 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |Hacker|6|+1|+1|10|+1|12|LA, Pistol, Knife, Deck|
 |Chiseler|6|+1|+1|10|+1|12|LA, Pistol, Knife, Picks|
-|Sniper|6|+3|+4|10|+3|14|LA, Carbine, Hand Weapon|
+|Sniper|6|+3|+5|10|+3|14|LA, Shotgun +1 Shoot, Hand Weapon|
 |Drone|6|+0|+0|10|+2|8|Fly, Pistol|
