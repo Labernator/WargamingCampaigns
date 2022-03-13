@@ -45,7 +45,7 @@
 |6|+3|+2|11|+4|17|
 
  - Adrenaline Surge (12/2)  
- - Mystic Trance (9/0)  
+ - Mystic Trance (9/0) +2  
  - Drone (10/1)  
  - Remote Firing (10/0)  
  - Repair Robot (10/0)  
