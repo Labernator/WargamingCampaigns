@@ -33,6 +33,10 @@
 <ins>**War Chest:**</ins> 220cr  
 <ins>**XP:**</ins> 0
 
+# 13.3.22 Skyline
+**XP:** 210  
+**Injuries:** 1 Hacker wounded  
+**Loot:** 300cr, Shotgun +1 Shoot  
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
