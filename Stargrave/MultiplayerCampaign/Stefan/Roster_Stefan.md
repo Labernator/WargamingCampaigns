@@ -34,9 +34,43 @@
 <ins>**XP:**</ins> 0
 
 # 13.3.22 Skyline
-**XP:** 210  
+**XP:** 210 => 1 Lvl für Captain (lower Adrenaline Surge) und 1st Mate (lower Remote Firing) 
 **Injuries:** 1 Hacker wounded  
-**Loot:** 300cr, Shotgun +1 Shoot  
+**Loot:** 300cr, Shotgun +1 Shoot, => Meditation Chamber kaufen (400), verwundeten Hacker ersetzen (20)  
+
+<ins>**Captain**</ins> (Robotic Expert Lvl 16)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+3|+2|11|+4|17|
+
+ - Adrenaline Surge (12/2)  
+ - Mystic Trance (9/0)  
+ - Drone (10/1)  
+ - Remote Firing (10/0)  
+ - Repair Robot (10/0)  
+
+**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
+
+<ins>**First Mate**</ins> (Veteran Lvl 1)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+3|+2|11|+2|15|
+
+ - Regenerate (12/0)  
+ - Remote Firing (11/0)  
+ - Energy Shield (12/0)  
+ - Armoury (12/0)  
+
+**Gear:** Heavy Armour, Flamethrower, Deck, Picks
+
+<ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper
+
+
+<ins>**Ship:**</ins> Meditation Chamber  
+<ins>**War Chest:**</ins> 100cr  
+<ins>**XP:**</ins> 10
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
