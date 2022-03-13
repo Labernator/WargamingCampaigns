@@ -50,7 +50,7 @@
  - Remote Firing (10/0)  
  - Repair Robot (10/0)  
 
-**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
+**Gear:** Combat Armour, Flamethrower, Deck, Picks  
 
 <ins>**First Mate**</ins> (Veteran Lvl 1)  
 
@@ -63,7 +63,7 @@
  - Energy Shield (12/0)  
  - Armoury (12/0)  
 
-**Gear:** Heavy Armour, Flamethrower, Deck, Picks
+**Gear:** Heavy Armour, Grenade Launcher, Hand Weapon  
 
 <ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper
 
