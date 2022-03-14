@@ -34,7 +34,7 @@
 <ins>**XP:**</ins> 0
 
 # 13.3.22 Skymine
-**XP:** 210 => 1 Lvl für Captain (lower Adrenaline Surge) und 1st Mate (lower Remote Firing)  
+**XP:** 210 => 1 Lvl für Captain (lower Adrenaline Surge) und 1st Mate (lower Armoury)  
 **Injuries:** 1 Hacker wounded  
 **Loot:** 300cr, Shotgun +1 Shoot, => Meditation Chamber kaufen (400), verwundeten Hacker ersetzen (20)  
 
@@ -59,9 +59,9 @@
 |6|+3|+2|11|+2|15|
 
  - Regenerate (12/0)  
- - Remote Firing (11/0)  
+ - Remote Firing (12/0)  
  - Energy Shield (12/0)  
- - Armoury (12/0)  
+ - Armoury (11/0)  
 
 **Gear:** Heavy Armour, Grenade Launcher, Hand Weapon  
 
