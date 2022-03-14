@@ -1,5 +1,5 @@
 {
-  "Credits": 160,
+  "Credits": 310,
   "Soldiers": [
     {
       "type": "Hacker",
@@ -87,7 +87,7 @@
     }
   ],
   "ShipName": "Dewalt",
-  "Experience": 0,
+  "Experience": 80,
   "Captain": {
     "stats": {
       "Move": 7,
@@ -118,11 +118,11 @@
         "effect": "A figure may not make a power move when attempting to activate this power. The activator ma immediately move 4” in any direction, including out of combat. No figure may force combar during this move. The activator may not end this move within 1” of an enemy figure nor exit the table. This move does not suffer any movement penalties for terrain. If the figure fails its activation, it may make a normal power move."
       },
       {
-        "name": "Suggestion",
-        "activation": 14,
+        "name": "Target Lock",
+        "activation": 10,
         "strain": 1,
-        "category": "Line of Sight",
-        "effect": "The target of this power must make an immediate Will Roll (TN16). If it fails, it drops any loot it is carrying, and the activator may move the figure up to 3” in any direction, provided this does not move the figure into combat or cause it any immediate Damage (i.e. falling more than 3”). (Armour Interference)."
+        "category": "Touch",
+        "effect": "The activator may make an immediate grenade or grenade launcher attack as a free action against any point in range; it does not have to be in line of sight. The attack automatically hits its intended point. If this power is used during a group activation, then the grenade or grenade launcher attack can be made by another member of the crew that is within 1” and was part of the group activation."
       },
       {
         "name": "Energy Shield",
@@ -145,10 +145,6 @@
         "gearSlots": 2
       },
       {
-        "name": "Deck",
-        "gearSlots": 1
-      },
-      {
         "name": "Filter Mask",
         "gearSlots": 0
       },
@@ -158,6 +154,14 @@
       },
       {
         "name": "Pistol",
+        "gearSlots": 0
+      },
+      {
+        "name": "Fragmentation Grenade",
+        "gearSlots": 1
+      },
+      {
+        "name": "Anti Gravity Patch",
         "gearSlots": 0
       },
       {
@@ -175,7 +179,7 @@
       "Will": 4,
       "Health": 15
     },
-    "level": 0,
+    "level": 1,
     "gearSlots": 5,
     "type": "FirstMate",
     "name": "Klaes Ashford",
@@ -197,7 +201,7 @@
       },
       {
         "name": "Drone",
-        "activation": 12,
+        "activation": 11,
         "strain": 1,
         "category": "Touch",
         "effect": "Place a drone next to the activator. This drone counts as a temporary member of the crew and may activate and move as normal. For the rest of the game, the figure may draw line of sight from the drone, instead of the figure when using a power. This includes using Touch powers. A figure may only have one active drone at a time."
@@ -212,10 +216,6 @@
     ],
     "gear": [
       {
-        "name": "Carbine",
-        "gearSlots": 2
-      },
-      {
         "name": "Knife",
         "gearSlots": 0
       },
@@ -224,12 +224,12 @@
         "gearSlots": 1
       },
       {
-        "name": "Medic Kit",
-        "gearSlots": 1
+        "name": "Carbine",
+        "gearSlots": 2
       },
       {
-        "name": "Picks",
-        "gearSlots": 1
+        "name": "Flamethrower",
+        "gearSlots": 2
       }
     ]
   }
