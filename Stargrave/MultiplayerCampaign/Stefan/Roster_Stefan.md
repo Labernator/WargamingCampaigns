@@ -42,7 +42,7 @@
 
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
-|7|+3|+2|13|+4|17|
+|6|+3|+2|11|+4|17|
 
  - Adrenaline Surge (12/2)  
  - Mystic Trance (9/0) +2  
@@ -50,20 +50,20 @@
  - Remote Firing (10/0)  
  - Repair Robot (10/0)  
 
-**Gear:** Combat Armour, Flamethrower, Deck, Picks  
+**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
 
 <ins>**First Mate**</ins> (Veteran Lvl 1)  
 
 |**M**|**F**|**S**|**A**|**W**|**H**|
 |:---|:---|:---|:---|:---|:---|
-|6|+3|+2|11|+2|15|
+|7|+3|+2|13|+2|15|
 
  - Regenerate (12/0)  
  - Remote Firing (12/0)  
  - Energy Shield (12/0)  
  - Armoury (11/0)  
 
-**Gear:** Heavy Armour, Grenade Launcher, Hand Weapon  
+**Gear:** Combat Armour, Rapid Fire Gun  
 
 <ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper (mit +1 Shotgun)  
 
