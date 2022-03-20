@@ -113,5 +113,5 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |Hacker|6|+1|+1|10|+1|12|LA, Pistol, Knife, Deck|
 |Chiseler|6|+1|+1|10|+1|12|LA, Pistol, Knife, Picks|
-|Sniper|6|+3|+4|10|+3|14|LA, Shotgun +1 Shoot, Hand Weapon|
+|Sniper|6|+3|+4|10|+3|14|LA, Carbine, Hand Weapon|
 |Drone|6|+0|+0|10|+2|8|Fly, Pistol|
