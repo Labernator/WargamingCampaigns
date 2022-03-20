@@ -74,9 +74,14 @@
 # 19.3.22 Starport Raid
 **XP:** 270 => 2 Lvl für Captain (lower Adrenaline Surge, +1 Fight)  
 **Injuries:** 1 Hacker, 2 Chiseler captured by pirates  
-**Loot:** Jet Boots, Advanced Picks
+**Loot:** Jet Boots (verkaufen 120), Advanced Picks (verkaufen 100) => verkaufe Shotgun +1 (250), 100 aus letzten Spiel. Ersetze Crew, kaufe Jump Pack (500). 
 
 
+<ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper  
+
+<ins>**Ship:**</ins> Meditation Chamber  
+<ins>**War Chest:**</ins> 10cr  
+<ins>**XP:**</ins> 80
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
