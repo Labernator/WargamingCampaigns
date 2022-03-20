@@ -76,6 +76,32 @@
 **Injuries:** 1 Hacker, 2 Chiseler captured by pirates  
 **Loot:** Jet Boots (verkaufen 120), Advanced Picks (verkaufen 100) => verkaufe Shotgun +1 (250), 100 aus letzten Spiel. Ersetze Crew, kaufe Jump Pack (500). 
 
+<ins>**Captain**</ins> (Robotic Expert Lvl 18)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+4|+2|11|+4|17|
+
+ - Adrenaline Surge (11/2)  
+ - Mystic Trance (9/0) +2  
+ - Drone (10/1)  
+ - Remote Firing (10/0)  
+ - Repair Robot (10/0)  
+
+**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
+
+<ins>**First Mate**</ins> (Veteran Lvl 1)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|7|+3|+2|13|+2|15|
+
+ - Regenerate (12/0)  
+ - Remote Firing (12/0)  
+ - Energy Shield (12/0)  
+ - Armoury (11/0)  
+
+**Gear:** Combat Armour, Flamethrower, Jump Pack  
 
 <ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper  
 
