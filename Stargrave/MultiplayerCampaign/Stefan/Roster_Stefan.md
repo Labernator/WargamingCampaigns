@@ -67,10 +67,16 @@
 
 <ins>**Crew:**</ins> 2 Hacker (Robot), 2 Chiseler (Robot), Sniper (mit +1 Shotgun)  
 
-
 <ins>**Ship:**</ins> Meditation Chamber  
 <ins>**War Chest:**</ins> 100cr  
 <ins>**XP:**</ins> 10
+
+# 19.3.22 Starport Raid
+**XP:** 270 => 2 Lvl für Captain (lower Adrenaline Surge, +1 Fight)  
+**Injuries:** 1 Hacker, 2 Chiseler captured by pirates  
+**Loot:** Jet Boots, Advanced Picks
+
+
 
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
