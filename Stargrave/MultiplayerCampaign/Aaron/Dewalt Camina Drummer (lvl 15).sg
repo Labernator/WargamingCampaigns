@@ -1,27 +1,6 @@
 {
-  "Credits": 510,
+  "Credits": 650,
   "Soldiers": [
-    {
-      "type": "Hacker",
-      "cost": 20,
-      "stats": {
-        "Move": 6,
-        "Fight": 1,
-        "Shoot": 1,
-        "Armour": 10,
-        "Will": 1,
-        "Health": 12
-      },
-      "gear": [
-        "Pistol",
-        "Deck",
-        "Light Armour",
-        "Knife"
-      ],
-      "group": "Standard",
-      "amount": 1,
-      "gearSlots": 1
-    },
     {
       "type": "Chiseler",
       "cost": 20,
@@ -60,7 +39,7 @@
         "Hand Weapon"
       ],
       "group": "Standard",
-      "amount": 2,
+      "amount": 1,
       "gearSlots": 1
     },
     {
@@ -84,10 +63,51 @@
       "group": "Specialist",
       "amount": 1,
       "gearSlots": 1
+    },
+    {
+      "type": "Sniper",
+      "cost": 100,
+      "stats": {
+        "Move": 6,
+        "Fight": 3,
+        "Shoot": 4,
+        "Armour": 10,
+        "Will": 3,
+        "Health": 14
+      },
+      "gear": [
+        "Carbine",
+        "Light Armour",
+        "Hand Weapon"
+      ],
+      "group": "Specialist",
+      "amount": 1,
+      "gearSlots": 1
+    },
+    {
+      "type": "Gunner",
+      "cost": 100,
+      "stats": {
+        "Move": 5,
+        "Fight": 3,
+        "Shoot": 3,
+        "Armour": 11,
+        "Will": 1,
+        "Health": 14
+      },
+      "gear": [
+        "Rapid Fire",
+        "Pistol",
+        "Heavy Armour",
+        "Knife"
+      ],
+      "group": "Specialist",
+      "amount": 1,
+      "gearSlots": 1
     }
   ],
   "ShipName": "Dewalt",
-  "Experience": 80,
+  "Experience": 75,
   "Captain": {
     "stats": {
       "Move": 7,
@@ -97,7 +117,7 @@
       "Will": 3,
       "Health": 17
     },
-    "level": 15,
+    "level": 16,
     "gearSlots": 6,
     "type": "Captain",
     "name": "Camina Drummer",
@@ -105,7 +125,7 @@
     "powers": [
       {
         "name": "Drone",
-        "activation": 11,
+        "activation": 10,
         "strain": 1,
         "category": "Touch",
         "effect": "Place a drone next to the activator. This drone counts as a temporary member of the crew and may activate and move as normal. For the rest of the game, the figure may draw line of sight from the drone, instead of the figure when using a power. This includes using Touch powers. A figure may only have one active drone at a time."
@@ -170,12 +190,12 @@
     "stats": {
       "Move": 7,
       "Fight": 2,
-      "Shoot": 2,
+      "Shoot": 3,
       "Armour": 9,
       "Will": 4,
       "Health": 15
     },
-    "level": 1,
+    "level": 2,
     "gearSlots": 5,
     "type": "FirstMate",
     "name": "Klaes Ashford",
@@ -220,11 +240,15 @@
         "gearSlots": 1
       },
       {
-        "name": "Carbine",
-        "gearSlots": 2
+        "name": "Fragment Grenade",
+        "gearSlots": 1
       },
       {
-        "name": "Flamethrower",
+        "name": "Deck",
+        "gearSlots": 1
+      },
+      {
+        "name": "Carbine",
         "gearSlots": 2
       }
     ]
