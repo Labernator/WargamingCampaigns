@@ -109,6 +109,44 @@
 <ins>**War Chest:**</ins> 10cr  
 <ins>**XP:**</ins> 80
 
+# 10.4.22 Salvage Crew
+**XP:** 170 + 80 => 1 Lvl für Captain (lower Adrenaline Surge), 1 Lvl für First Mate (+1 Fight)  
+**Injuries:** 2 Chiseler dead (ersetzt durch Recruits)  
+**Loot:** Informations (100cr)  
+
+<ins>**Captain**</ins> (Robotic Expert Lvl 19)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+4|+2|11|+4|17|
+
+ - Adrenaline Surge (10/2)  
+ - Mystic Trance (9/0) +2  
+ - Drone (10/1)  
+ - Remote Firing (10/0)  
+ - Repair Robot (10/0)  
+
+**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
+
+<ins>**First Mate**</ins> (Veteran Lvl 2)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|7|+4|+2|13|+2|15|
+
+ - Regenerate (12/0)  
+ - Remote Firing (12/0)  
+ - Energy Shield (12/0)  
+ - Armoury (11/0)  
+
+**Gear:** Combat Armour, Flamethrower, Jump Pack  
+
+<ins>**Crew:**</ins> 2 Hacker (Robot), 2 Recruit (Robot), Sniper  
+
+<ins>**Ship:**</ins> Meditation Chamber  
+<ins>**War Chest:**</ins> 10cr, Informations (100cr)  
+<ins>**XP:**</ins> 50
+
 |**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |Hacker|6|+1|+1|10|+1|12|LA, Pistol, Knife, Deck|
