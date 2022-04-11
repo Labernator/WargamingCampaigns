@@ -1,5 +1,5 @@
 {
-  "Credits": 925,
+  "Credits": 275,
   "Soldiers": [
     {
       "type": "Chiseler",
@@ -82,7 +82,7 @@
         "Knife"
       ],
       "group": "Specialist",
-      "amount": 1,
+      "amount": 2,
       "gearSlots": 1
     }
   ],
@@ -157,11 +157,11 @@
         "gearSlots": 0
       },
       {
-        "name": "Fragmentation Grenade",
+        "name": "Sensory Tendrils",
         "gearSlots": 1
       },
       {
-        "name": "Rapid Fire",
+        "name": "Grenade Launcher",
         "gearSlots": 3
       }
     ]
