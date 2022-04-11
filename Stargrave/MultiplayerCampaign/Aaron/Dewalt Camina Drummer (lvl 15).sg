@@ -1,5 +1,5 @@
 {
-  "Credits": 650,
+  "Credits": 925,
   "Soldiers": [
     {
       "type": "Chiseler",
@@ -17,26 +17,6 @@
         "Picks",
         "Light Armour",
         "Knife"
-      ],
-      "group": "Standard",
-      "amount": 1,
-      "gearSlots": 1
-    },
-    {
-      "type": "Sentry",
-      "cost": 50,
-      "stats": {
-        "Move": 5,
-        "Fight": 3,
-        "Shoot": 2,
-        "Armour": 11,
-        "Will": 0,
-        "Health": 14
-      },
-      "gear": [
-        "Carbine",
-        "Heavy Armour",
-        "Hand Weapon"
       ],
       "group": "Standard",
       "amount": 1,
@@ -107,7 +87,7 @@
     }
   ],
   "ShipName": "Dewalt",
-  "Experience": 75,
+  "Experience": 85,
   "Captain": {
     "stats": {
       "Move": 7,
@@ -117,7 +97,7 @@
       "Will": 3,
       "Health": 17
     },
-    "level": 16,
+    "level": 17,
     "gearSlots": 6,
     "type": "Captain",
     "name": "Camina Drummer",
@@ -195,7 +175,7 @@
       "Will": 4,
       "Health": 15
     },
-    "level": 2,
+    "level": 3,
     "gearSlots": 5,
     "type": "FirstMate",
     "name": "Klaes Ashford",
@@ -217,7 +197,7 @@
       },
       {
         "name": "Drone",
-        "activation": 11,
+        "activation": 10,
         "strain": 1,
         "category": "Touch",
         "effect": "Place a drone next to the activator. This drone counts as a temporary member of the crew and may activate and move as normal. For the rest of the game, the figure may draw line of sight from the drone, instead of the figure when using a power. This includes using Touch powers. A figure may only have one active drone at a time."
