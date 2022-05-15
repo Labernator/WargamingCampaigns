@@ -147,9 +147,40 @@
 <ins>**War Chest:**</ins> 10cr, Informations (100cr)  
 <ins>**XP:**</ins> 50
 
-|**Type**|**M**|**F**|**S**|**A**|**W**|**H**|**Gear**|
-|:---|:---|:---|:---|:---|:---|:---|:---|
-|Hacker|6|+1|+1|10|+1|12|LA, Pistol, Knife, Deck|
-|Chiseler|6|+1|+1|10|+1|12|LA, Pistol, Knife, Picks|
-|Sniper|6|+3|+4|10|+3|14|LA, Carbine, Hand Weapon|
-|Drone|6|+0|+0|10|+2|8|Fly, Pistol|
+# 15.5.22 Overgrown Factory
+**XP:** 240 + 50 + Löse Information für 20 ein => 3 Lvl für Captain (lower Adrenaline Surge, +2 Fight)  
+**Injuries:** 1 Hacker wounded (ersetzt durch Chiseler)  
+**Loot:** 250cr  
+
+<ins>**Captain**</ins> (Robotic Expert Lvl 22)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|6|+6|+2|11|+4|17|
+
+ - Adrenaline Surge (9/2)  
+ - Mystic Trance (9/0) +2  
+ - Drone (10/1)  
+ - Remote Firing (10/0)  
+ - Repair Robot (10/0)  
+
+**Gear:** Heavy Armour, Grenade Launcher, Deck, Picks  
+
+<ins>**First Mate**</ins> (Veteran Lvl 2)  
+
+|**M**|**F**|**S**|**A**|**W**|**H**|
+|:---|:---|:---|:---|:---|:---|
+|7|+4|+2|13|+2|15|
+
+ - Regenerate (12/0)  
+ - Remote Firing (12/0)  
+ - Energy Shield (12/0)  
+ - Armoury (11/0)  
+
+**Gear:** Combat Armour, Flamethrower, Jump Pack  
+
+<ins>**Crew:**</ins> Hacker (Robot), Chiseler (Robot), 2 Recruit (Robot), Sniper  
+
+<ins>**Ship:**</ins> Meditation Chamber  
+<ins>**War Chest:**</ins> 240cr 
+<ins>**XP:**</ins> 10
