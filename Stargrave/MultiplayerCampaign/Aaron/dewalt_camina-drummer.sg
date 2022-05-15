@@ -1,5 +1,5 @@
 {
-  "Credits": 275,
+  "Credits": 535,
   "Soldiers": [
     {
       "type": "Chiseler",
@@ -19,8 +19,8 @@
         "Knife"
       ],
       "group": "Standard",
-      "amount": 1,
-      "gearSlots": 1
+      "gearSlots": 1,
+      "name": "Oksana"
     },
     {
       "type": "Pathfinder",
@@ -35,14 +35,13 @@
       },
       "gear": [
         "Carbine",
-        "Fragmentation Grenade",
-        "Smoke Grenade",
+        "Grenades",
         "Light Armour",
         "Hand Weapon"
       ],
       "group": "Specialist",
-      "amount": 1,
-      "gearSlots": 1
+      "gearSlots": 1,
+      "name": "Praxideke Meng"
     },
     {
       "type": "Sniper",
@@ -61,8 +60,8 @@
         "Hand Weapon"
       ],
       "group": "Specialist",
-      "amount": 1,
-      "gearSlots": 1
+      "gearSlots": 1,
+      "name": "Filip Inaros"
     },
     {
       "type": "Gunner",
@@ -82,33 +81,59 @@
         "Knife"
       ],
       "group": "Specialist",
-      "amount": 2,
-      "gearSlots": 1
+      "gearSlots": 1,
+      "name": "Jorge Sohiro"
+    },
+    {
+      "type": "Gunner",
+      "cost": 100,
+      "stats": {
+        "Move": 5,
+        "Fight": 3,
+        "Shoot": 3,
+        "Armour": 11,
+        "Will": 1,
+        "Health": 14
+      },
+      "gear": [
+        "Rapid Fire",
+        "Pistol",
+        "Heavy Armour",
+        "Knife"
+      ],
+      "group": "Specialist",
+      "gearSlots": 1,
+      "name": "Josep"
     }
   ],
   "ShipName": "Dewalt",
-  "Experience": 85,
   "Captain": {
+    "name": "Camina Drummer",
+    "level": 18,
     "stats": {
       "Move": 7,
       "Fight": 4,
       "Shoot": 2,
-      "Armour": 9,
       "Will": 3,
+      "Armour": 9,
       "Health": 17
     },
-    "level": 17,
     "gearSlots": 6,
     "type": "Captain",
-    "name": "Camina Drummer",
-    "background": "Cyborg",
     "powers": [
       {
         "name": "Drone",
-        "activation": 10,
+        "activation": 9,
         "strain": 1,
         "category": "Touch",
         "effect": "Place a drone next to the activator. This drone counts as a temporary member of the crew and may activate and move as normal. For the rest of the game, the figure may draw line of sight from the drone, instead of the figure when using a power. This includes using Touch powers. A figure may only have one active drone at a time."
+      },
+      {
+        "name": "Energy Shield",
+        "activation": 10,
+        "strain": 0,
+        "category": "Self-only",
+        "effect": "A small energy shield forms around the user. The shield absorbs the next 3 points of damage from any shooting attack, that would injure the activator. Once 3 points of damage have been absorbed, the power is cancelled."
       },
       {
         "name": "Quick Step",
@@ -123,13 +148,6 @@
         "strain": 1,
         "category": "Touch",
         "effect": "The activator may make an immediate grenade or grenade launcher attack as a free action against any point in range; it does not have to be in line of sight. The attack automatically hits its intended point. If this power is used during a group activation, then the grenade or grenade launcher attack can be made by another member of the crew that is within 1” and was part of the group activation."
-      },
-      {
-        "name": "Energy Shield",
-        "activation": 10,
-        "strain": 0,
-        "category": "Self-only",
-        "effect": "A small energy shield forms around the user. The shield absorbs the next 3 points of damage from any shooting attack, that would injure the activator. Once 3 points of damage have been absorbed, the power is cancelled."
       },
       {
         "name": "Temporary Upgrade",
@@ -149,6 +167,10 @@
         "gearSlots": 0
       },
       {
+        "name": "Grenade Launcher",
+        "gearSlots": 3
+      },
+      {
         "name": "Hand Weapon",
         "gearSlots": 0
       },
@@ -159,27 +181,23 @@
       {
         "name": "Sensory Tendrils",
         "gearSlots": 1
-      },
-      {
-        "name": "Grenade Launcher",
-        "gearSlots": 3
       }
-    ]
+    ],
+    "background": "Cyborg"
   },
   "FirstMate": {
+    "name": "Klaes Ashford",
+    "level": 4,
     "stats": {
       "Move": 7,
       "Fight": 2,
       "Shoot": 3,
-      "Armour": 9,
       "Will": 4,
+      "Armour": 9,
       "Health": 15
     },
-    "level": 3,
     "gearSlots": 5,
     "type": "FirstMate",
-    "name": "Klaes Ashford",
-    "background": "Tekker",
     "powers": [
       {
         "name": "Data Jump",
@@ -197,7 +215,7 @@
       },
       {
         "name": "Drone",
-        "activation": 10,
+        "activation": 9,
         "strain": 1,
         "category": "Touch",
         "effect": "Place a drone next to the activator. This drone counts as a temporary member of the crew and may activate and move as normal. For the rest of the game, the figure may draw line of sight from the drone, instead of the figure when using a power. This includes using Touch powers. A figure may only have one active drone at a time."
@@ -212,25 +230,59 @@
     ],
     "gear": [
       {
-        "name": "Knife",
-        "gearSlots": 0
-      },
-      {
-        "name": "Light Armour",
-        "gearSlots": 1
-      },
-      {
-        "name": "Fragment Grenade",
-        "gearSlots": 1
+        "name": "Carbine",
+        "gearSlots": 2
       },
       {
         "name": "Deck",
         "gearSlots": 1
       },
       {
-        "name": "Carbine",
-        "gearSlots": 2
+        "name": "Grenades",
+        "gearSlots": 1
+      },
+      {
+        "name": "Knife",
+        "type": "Weapon",
+        "maxRange": "Melee",
+        "damageModifier": -1,
+        "gearSlots": 0
+      },
+      {
+        "name": "Light Armour",
+        "gearSlots": 1
       }
-    ]
-  }
+    ],
+    "background": "Tekker"
+  },
+  "Experience": 40,
+  "ExperienceRecords": [
+    0,
+    240,
+    40
+  ],
+  "CreditRecords": [
+    {
+      "credits": 275,
+      "sign": true,
+      "record": "Migrate to new JSON format"
+    },
+    {
+      "credits": 50,
+      "sign": false,
+      "record": "Paid upkeep/randsom of 50"
+    },
+    {
+      "credits": 150,
+      "sign": true,
+      "record": "Sold Grapplewire"
+    },
+    {
+      "credits": 160,
+      "sign": true,
+      "record": "Sold Advanced Grenades (+1 dmg)"
+    }
+  ],
+  "Cargo": [],
+  "ShipUpgrades": []
 }
