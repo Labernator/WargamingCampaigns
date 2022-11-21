@@ -8,7 +8,8 @@
  - [How to play](https://youtu.be/U9yAxCU4hNM) 
 
 ## Zona Alfa
- - [Let's Play](https://youtu.be/mlBXH_Q89Zw) 
+ - [Let's Play](https://youtu.be/mlBXH_Q89Zw)  
+ - [Goonhammer Zusammenfassung](https://www.goonhammer.com/zona-alfa-play-metro-2033-but-with-miniatures)   
 
 ## This is not a test
  - [Store](https://worldsendpublishing.com) 
