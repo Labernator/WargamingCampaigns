@@ -8,7 +8,7 @@
 **5 Warrior**: Dagger (5x 27 = 135)  
 **1 Warrior** (25) 
 
-**Merchant** (20) 
+**Merchant** (20)  
 **Thief** (30)  
 **Runesmith Journeyman** (30) 
 
