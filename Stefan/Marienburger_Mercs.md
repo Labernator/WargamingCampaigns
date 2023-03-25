@@ -12,4 +12,4 @@
 **Thief** (30)  
 **Runesmith Journeyman** (30) 
 
-499
+599
