@@ -7,7 +7,7 @@
 
 ## Relicblade
  - [Shop](https://www.relicblade.com/shop)
- - 
+ - [Gameplay Basics](https://youtu.be/NB3eq0vtcCA?si=dH18vOJo9cYGP5r2)
 
 ## Deadzone
  - [Store](https://www.manticgames.com/games/deadzone) 
