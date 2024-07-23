@@ -1,6 +1,6 @@
 
 ## The Calling
-He startled awake. Dazed and confused. Was that a vision? Nightmare? Delusion? These days those were hard to differentiate.
+He startled awake. Dazed and confused. Was that a vision? Nightmare? Delusion? These days those were hard to distinguish.
 It was as if the fabric of reality became more brittle by the hour. And something else entierly was taking its place.
 The message was clear though nevertheless. Hundreds of souls were ready for reaping in the City of the Damned. And so He turned east.
 
