@@ -6,7 +6,7 @@
 
 **Optionen**
  - Skirmish Wargames (eher kein Mordheim zur Zeit) PvP
- - Skirmish Wargames PvM
+ - Coop Skirmish Wargames (Rangers of Shadow Deep, Five Parsecs from Home) PvM
  - RPG mit Figürchen (Shadowrun, ??)
  - Boardgames (Oathsworn, Kingdom Death Monsters, Gloomhaven)
 
